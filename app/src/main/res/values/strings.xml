@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Yoga Class App</string>
+    <string name="course_name">Course Name</string>
+    <string name="teacher_name">Teacher Name</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="duration">Duration</string>
+    <string name="price">Price</string>
+    <string name="capacity">Capacity</string>
+    <string name="class_type">Class Type</string>
+    <string name="add_course">Add Course</string>
+    <string name="add_instance">Add Class Instance</string>
+    <string name="error_required_fields">All required fields must be filled!</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+</resources>

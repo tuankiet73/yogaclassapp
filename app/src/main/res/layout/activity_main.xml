@@ -1,0 +1,26 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/addYogaClassButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Add Yoga Class"
+        android:onClick="addYogaClass"/>
+
+    <Button
+        android:id="@+id/manageClassesButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Manage Classes"
+        android:onClick="manageClasses"/>
+
+    <Button
+        android:id="@+id/searchClassesButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Search Classes"
+        android:onClick="searchClasses"/>
+</LinearLayout>
